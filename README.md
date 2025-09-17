@@ -14,9 +14,13 @@ You will:
 
 ## Branch Summaries
 
+## Branch Summaries
+
 - `main`: Original story starter
-- `hero-path`: _[Describe your changes here]_
+- `hero-path`: Player finds a glowing sword on the left path, defeats a dragon, and saves the forest.
 - `villain-path`: _[Describe your changes here]_
+
+
 
 ## Final Checklist
 
