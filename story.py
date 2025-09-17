@@ -12,8 +12,8 @@ def intro():
 
 def left_path():
     print("You walk left and find a mysterious glowing sword stuck in a stone.")
-    print("You pull the sword free — it feels powerful in your hands.")
-    print("A dragon appears, but with courage, you defeat it and save the forest!")
+    print("You pull the sword free — it chooses you.")
+    print("A dragon swoops down! With courage and the sword’s light, you defeat it and save the forest.")
 
 def right_path():
     print("You walk right and encounter a talking squirrel who challenges you to a duel.")
